@@ -9,18 +9,18 @@ A link to my CV can be found [here](https://liveabertayac-my.sharepoint.com/:w:/
 - Developed during the Freshers Game Jam
 - Team of three programmers
 - Each team member was assigned a puzzle to develop
-Link
+![Rising Tensions](/assets/img/risingten.png)
 
 ## Blood in the Water
 - Developed during the DES310 module in 3rd year
 - Team of seven from multiple disciplines
 - One of three programmers on the team
 - Worked on all puzzles for the game
-Link
+![Blood in the Water](/assets/img/bloodwater.png)
 
-## CMP304
-- Recreation of a Titans lodaout from Titanfall
+## CMP302 - Game Mechanics Development
+- Recreation of a Titans loadout from Titanfall
 - Projectile cannon
 - Omnidirecional dash
 - Homing missiles
-Link
+![CMP302](/assets/img/titan.png)
