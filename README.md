@@ -8,19 +8,19 @@ A link to my CV can be found [here](https://liveabertayac-my.sharepoint.com/:w:/
 ## [Rising Tensions](https://herdofnerds.itch.io/rising-tensions)
 - Developed during the Freshers Game Jam
 - Team of three programmers
-- Each team member was assigned a puzzle to develop
+- Each team member was assigned a puzzle to develop  
 ![Rising Tensions](/assets/img/risingten.png)
 
 ## [Blood in the Water](https://starvingseagullsstudios.itch.io/blood-in-the-water)
 - Developed during the DES310 module in 3rd year
 - Team of seven from multiple disciplines
 - One of three programmers on the team
-- Worked on all puzzles for the game
+- Worked on all puzzles for the game  
 ![Blood in the Water](/assets/img/bloodwater.png)
 
 ## CMP302 - Game Mechanics Development Project
 - Recreation of a Titans loadout from Titanfall
 - Projectile cannon
 - Omnidirecional dash
-- Homing missiles
+- Homing missiles  
 ![CMP302](/assets/img/titan.png)
