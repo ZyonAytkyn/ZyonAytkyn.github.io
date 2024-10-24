@@ -18,7 +18,7 @@ A link to my CV can be found [here](https://liveabertayac-my.sharepoint.com/:w:/
 - Worked on all puzzles for the game
 ![Blood in the Water](/assets/img/bloodwater.png)
 
-## CMP302 - Game Mechanics Development
+## CMP302 - Game Mechanics Development Project
 - Recreation of a Titans loadout from Titanfall
 - Projectile cannon
 - Omnidirecional dash
